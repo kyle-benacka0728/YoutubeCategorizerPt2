@@ -1,0 +1,15 @@
+C:\Users\kyleb\Advanced C#\YoutubeCategorizerPt2\YoutubeCategorizer.Core\bin\Debug\net10.0\YoutubeCategorizer.Core.deps.json
+C:\Users\kyleb\Advanced C#\YoutubeCategorizerPt2\YoutubeCategorizer.Core\bin\Debug\net10.0\YoutubeCategorizer.Core.runtimeconfig.json
+C:\Users\kyleb\Advanced C#\YoutubeCategorizerPt2\YoutubeCategorizer.Core\bin\Debug\net10.0\YoutubeCategorizer.Core.dll
+C:\Users\kyleb\Advanced C#\YoutubeCategorizerPt2\YoutubeCategorizer.Core\bin\Debug\net10.0\YoutubeCategorizer.Core.pdb
+C:\Users\kyleb\Advanced C#\YoutubeCategorizerPt2\YoutubeCategorizer.Core\obj\Debug\net10.0\YoutubeCategorizer.Core.csproj.AssemblyReference.cache
+C:\Users\kyleb\Advanced C#\YoutubeCategorizerPt2\YoutubeCategorizer.Core\obj\Debug\net10.0\YoutubeCategorizer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyleb\Advanced C#\YoutubeCategorizerPt2\YoutubeCategorizer.Core\obj\Debug\net10.0\YoutubeCategorizer.Core.AssemblyInfoInputs.cache
+C:\Users\kyleb\Advanced C#\YoutubeCategorizerPt2\YoutubeCategorizer.Core\obj\Debug\net10.0\YoutubeCategorizer.Core.AssemblyInfo.cs
+C:\Users\kyleb\Advanced C#\YoutubeCategorizerPt2\YoutubeCategorizer.Core\obj\Debug\net10.0\YoutubeCategorizer.Core.csproj.CoreCompileInputs.cache
+C:\Users\kyleb\Advanced C#\YoutubeCategorizerPt2\YoutubeCategorizer.Core\obj\Debug\net10.0\YoutubeCategorizer.Core.sourcelink.json
+C:\Users\kyleb\Advanced C#\YoutubeCategorizerPt2\YoutubeCategorizer.Core\obj\Debug\net10.0\YoutubeCategorizer.Core.dll
+C:\Users\kyleb\Advanced C#\YoutubeCategorizerPt2\YoutubeCategorizer.Core\obj\Debug\net10.0\refint\YoutubeCategorizer.Core.dll
+C:\Users\kyleb\Advanced C#\YoutubeCategorizerPt2\YoutubeCategorizer.Core\obj\Debug\net10.0\YoutubeCategorizer.Core.pdb
+C:\Users\kyleb\Advanced C#\YoutubeCategorizerPt2\YoutubeCategorizer.Core\obj\Debug\net10.0\YoutubeCategorizer.Core.genruntimeconfig.cache
+C:\Users\kyleb\Advanced C#\YoutubeCategorizerPt2\YoutubeCategorizer.Core\obj\Debug\net10.0\ref\YoutubeCategorizer.Core.dll
