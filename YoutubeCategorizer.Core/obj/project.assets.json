@@ -2917,25 +2917,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kyleb\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\fordj\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kyleb\\Advanced C#\\YoutubeCategorizerPt2\\YoutubeCategorizer.Core\\YoutubeCategorizer.Core.csproj",
+      "projectUniqueName": "D:\\Indian Hills\\Term 7\\Advanced C#\\Unit 2.5\\YoutubeCategorizerPt2\\YoutubeCategorizer.Core\\YoutubeCategorizer.Core.csproj",
       "projectName": "YoutubeCategorizer.Core",
-      "projectPath": "C:\\Users\\kyleb\\Advanced C#\\YoutubeCategorizerPt2\\YoutubeCategorizer.Core\\YoutubeCategorizer.Core.csproj",
-      "packagesPath": "C:\\Users\\kyleb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kyleb\\Advanced C#\\YoutubeCategorizerPt2\\YoutubeCategorizer.Core\\obj\\",
+      "projectPath": "D:\\Indian Hills\\Term 7\\Advanced C#\\Unit 2.5\\YoutubeCategorizerPt2\\YoutubeCategorizer.Core\\YoutubeCategorizer.Core.csproj",
+      "packagesPath": "C:\\Users\\fordj\\.nuget\\packages\\",
+      "outputPath": "D:\\Indian Hills\\Term 7\\Advanced C#\\Unit 2.5\\YoutubeCategorizerPt2\\YoutubeCategorizer.Core\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\kyleb\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\MicroFocus.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        "C:\\Users\\fordj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\MicroFocus.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -2993,7 +2988,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

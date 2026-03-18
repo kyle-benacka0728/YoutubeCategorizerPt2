@@ -1,4 +1,10 @@
+using Microsoft.EntityFrameworkCore;
+using YoutubeCategorizer.Api.Data;
+
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseSqlite("Data Source=youtube.db"));
 
 // Add services to the container.
 
