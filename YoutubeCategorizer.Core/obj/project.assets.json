@@ -2922,11 +2922,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Indian Hills\\Term 7\\Advanced C#\\Unit 2.5\\YoutubeCategorizerPt2\\YoutubeCategorizer.Core\\YoutubeCategorizer.Core.csproj",
+      "projectUniqueName": "D:\\IndianHills\\Term7\\AdvancedCSharp\\Unit 2_5\\YoutubeCategorizerPt2\\YoutubeCategorizer.Core\\YoutubeCategorizer.Core.csproj",
       "projectName": "YoutubeCategorizer.Core",
-      "projectPath": "D:\\Indian Hills\\Term 7\\Advanced C#\\Unit 2.5\\YoutubeCategorizerPt2\\YoutubeCategorizer.Core\\YoutubeCategorizer.Core.csproj",
+      "projectPath": "D:\\IndianHills\\Term7\\AdvancedCSharp\\Unit 2_5\\YoutubeCategorizerPt2\\YoutubeCategorizer.Core\\YoutubeCategorizer.Core.csproj",
       "packagesPath": "C:\\Users\\fordj\\.nuget\\packages\\",
-      "outputPath": "D:\\Indian Hills\\Term 7\\Advanced C#\\Unit 2.5\\YoutubeCategorizerPt2\\YoutubeCategorizer.Core\\obj\\",
+      "outputPath": "D:\\IndianHills\\Term7\\AdvancedCSharp\\Unit 2_5\\YoutubeCategorizerPt2\\YoutubeCategorizer.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fordj\\AppData\\Roaming\\NuGet\\NuGet.Config",

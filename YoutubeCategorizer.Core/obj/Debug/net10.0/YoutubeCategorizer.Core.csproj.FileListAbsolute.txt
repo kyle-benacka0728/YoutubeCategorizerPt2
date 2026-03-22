@@ -28,3 +28,18 @@ D:\Indian Hills\Term 7\Advanced C#\Unit 2.5\YoutubeCategorizerPt2\YoutubeCategor
 D:\Indian Hills\Term 7\Advanced C#\Unit 2.5\YoutubeCategorizerPt2\YoutubeCategorizer.Core\obj\Debug\net10.0\YoutubeCategorizer.Core.pdb
 D:\Indian Hills\Term 7\Advanced C#\Unit 2.5\YoutubeCategorizerPt2\YoutubeCategorizer.Core\obj\Debug\net10.0\YoutubeCategorizer.Core.genruntimeconfig.cache
 D:\Indian Hills\Term 7\Advanced C#\Unit 2.5\YoutubeCategorizerPt2\YoutubeCategorizer.Core\obj\Debug\net10.0\ref\YoutubeCategorizer.Core.dll
+D:\IndianHills\Term7\AdvancedCSharp\Unit 2_5\YoutubeCategorizerPt2\YoutubeCategorizer.Core\bin\Debug\net10.0\YoutubeCategorizer.Core.deps.json
+D:\IndianHills\Term7\AdvancedCSharp\Unit 2_5\YoutubeCategorizerPt2\YoutubeCategorizer.Core\bin\Debug\net10.0\YoutubeCategorizer.Core.runtimeconfig.json
+D:\IndianHills\Term7\AdvancedCSharp\Unit 2_5\YoutubeCategorizerPt2\YoutubeCategorizer.Core\bin\Debug\net10.0\YoutubeCategorizer.Core.dll
+D:\IndianHills\Term7\AdvancedCSharp\Unit 2_5\YoutubeCategorizerPt2\YoutubeCategorizer.Core\bin\Debug\net10.0\YoutubeCategorizer.Core.pdb
+D:\IndianHills\Term7\AdvancedCSharp\Unit 2_5\YoutubeCategorizerPt2\YoutubeCategorizer.Core\obj\Debug\net10.0\YoutubeCategorizer.Core.csproj.AssemblyReference.cache
+D:\IndianHills\Term7\AdvancedCSharp\Unit 2_5\YoutubeCategorizerPt2\YoutubeCategorizer.Core\obj\Debug\net10.0\YoutubeCategorizer.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\IndianHills\Term7\AdvancedCSharp\Unit 2_5\YoutubeCategorizerPt2\YoutubeCategorizer.Core\obj\Debug\net10.0\YoutubeCategorizer.Core.AssemblyInfoInputs.cache
+D:\IndianHills\Term7\AdvancedCSharp\Unit 2_5\YoutubeCategorizerPt2\YoutubeCategorizer.Core\obj\Debug\net10.0\YoutubeCategorizer.Core.AssemblyInfo.cs
+D:\IndianHills\Term7\AdvancedCSharp\Unit 2_5\YoutubeCategorizerPt2\YoutubeCategorizer.Core\obj\Debug\net10.0\YoutubeCategorizer.Core.csproj.CoreCompileInputs.cache
+D:\IndianHills\Term7\AdvancedCSharp\Unit 2_5\YoutubeCategorizerPt2\YoutubeCategorizer.Core\obj\Debug\net10.0\YoutubeCategorizer.Core.sourcelink.json
+D:\IndianHills\Term7\AdvancedCSharp\Unit 2_5\YoutubeCategorizerPt2\YoutubeCategorizer.Core\obj\Debug\net10.0\YoutubeCategorizer.Core.dll
+D:\IndianHills\Term7\AdvancedCSharp\Unit 2_5\YoutubeCategorizerPt2\YoutubeCategorizer.Core\obj\Debug\net10.0\refint\YoutubeCategorizer.Core.dll
+D:\IndianHills\Term7\AdvancedCSharp\Unit 2_5\YoutubeCategorizerPt2\YoutubeCategorizer.Core\obj\Debug\net10.0\YoutubeCategorizer.Core.pdb
+D:\IndianHills\Term7\AdvancedCSharp\Unit 2_5\YoutubeCategorizerPt2\YoutubeCategorizer.Core\obj\Debug\net10.0\YoutubeCategorizer.Core.genruntimeconfig.cache
+D:\IndianHills\Term7\AdvancedCSharp\Unit 2_5\YoutubeCategorizerPt2\YoutubeCategorizer.Core\obj\Debug\net10.0\ref\YoutubeCategorizer.Core.dll

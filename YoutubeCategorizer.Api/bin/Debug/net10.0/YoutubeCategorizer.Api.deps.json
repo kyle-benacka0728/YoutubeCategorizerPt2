@@ -12,7 +12,7 @@
           "Microsoft.EntityFrameworkCore": "10.0.5",
           "Microsoft.EntityFrameworkCore.Sqlite": "10.0.5",
           "Microsoft.EntityFrameworkCore.Tools": "10.0.5",
-          "Scalar.AspNetCore": "2.13.10",
+          "Scalar.AspNetCore": "2.13.13",
           "YoutubeCategorizer.Core": "1.0.0"
         },
         "runtime": {
@@ -448,11 +448,11 @@
           }
         }
       },
-      "Scalar.AspNetCore/2.13.10": {
+      "Scalar.AspNetCore/2.13.13": {
         "runtime": {
           "lib/net10.0/Scalar.AspNetCore.dll": {
-            "assemblyVersion": "2.13.10.0",
-            "fileVersion": "2.13.10.0"
+            "assemblyVersion": "2.13.13.0",
+            "fileVersion": "2.13.13.0"
           }
         }
       },
@@ -840,12 +840,12 @@
       "path": "newtonsoft.json/13.0.3",
       "hashPath": "newtonsoft.json.13.0.3.nupkg.sha512"
     },
-    "Scalar.AspNetCore/2.13.10": {
+    "Scalar.AspNetCore/2.13.13": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-AHsAdrbjIVvV/l6dwsIpluuWZEjafmxLkoJTzdRruRNB3w5VI5MKM1Gu0gyX6xRI0raEtSy3O111YpBrZMOpSA==",
-      "path": "scalar.aspnetcore/2.13.10",
-      "hashPath": "scalar.aspnetcore.2.13.10.nupkg.sha512"
+      "sha512": "sha512-QS94/CNp2thhykXwBaOHjDe8Zlexs8v0QOrdLfUvxS85uW84IhCf1zGiOnYZNNtVxunJvtsr7yPgEP36TXnJ3w==",
+      "path": "scalar.aspnetcore/2.13.13",
+      "hashPath": "scalar.aspnetcore.2.13.13.nupkg.sha512"
     },
     "SQLitePCLRaw.bundle_e_sqlite3/2.1.11": {
       "type": "package",

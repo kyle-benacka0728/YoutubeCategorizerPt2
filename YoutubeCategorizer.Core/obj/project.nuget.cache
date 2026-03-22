@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zErJN+kyuMI=",
+  "dgSpecHash": "LoRVbFlnfH8=",
   "success": true,
-  "projectFilePath": "D:\\Indian Hills\\Term 7\\Advanced C#\\Unit 2.5\\YoutubeCategorizerPt2\\YoutubeCategorizer.Core\\YoutubeCategorizer.Core.csproj",
+  "projectFilePath": "D:\\IndianHills\\Term7\\AdvancedCSharp\\Unit 2_5\\YoutubeCategorizerPt2\\YoutubeCategorizer.Core\\YoutubeCategorizer.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fordj\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\fordj\\.nuget\\packages\\microsoft.build.framework\\18.0.2\\microsoft.build.framework.18.0.2.nupkg.sha512",

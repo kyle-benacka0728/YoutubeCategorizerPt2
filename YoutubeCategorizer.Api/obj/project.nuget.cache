@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sIgMUosOjaM=",
+  "dgSpecHash": "wf3Vfnsm9uU=",
   "success": true,
-  "projectFilePath": "D:\\Indian Hills\\Term 7\\Advanced C#\\Unit 2.5\\YoutubeCategorizerPt2\\YoutubeCategorizer.Api\\YoutubeCategorizer.Api.csproj",
+  "projectFilePath": "D:\\IndianHills\\Term7\\AdvancedCSharp\\Unit 2_5\\YoutubeCategorizerPt2\\YoutubeCategorizer.Api\\YoutubeCategorizer.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fordj\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\fordj\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.1\\microsoft.aspnetcore.openapi.10.0.1.nupkg.sha512",
@@ -27,7 +27,7 @@
     "C:\\Users\\fordj\\.nuget\\packages\\microsoft.visualstudio.solutionpersistence\\1.0.52\\microsoft.visualstudio.solutionpersistence.1.0.52.nupkg.sha512",
     "C:\\Users\\fordj\\.nuget\\packages\\mono.texttemplating\\3.0.0\\mono.texttemplating.3.0.0.nupkg.sha512",
     "C:\\Users\\fordj\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
-    "C:\\Users\\fordj\\.nuget\\packages\\scalar.aspnetcore\\2.13.10\\scalar.aspnetcore.2.13.10.nupkg.sha512",
+    "C:\\Users\\fordj\\.nuget\\packages\\scalar.aspnetcore\\2.13.13\\scalar.aspnetcore.2.13.13.nupkg.sha512",
     "C:\\Users\\fordj\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.11\\sqlitepclraw.bundle_e_sqlite3.2.1.11.nupkg.sha512",
     "C:\\Users\\fordj\\.nuget\\packages\\sqlitepclraw.core\\2.1.11\\sqlitepclraw.core.2.1.11.nupkg.sha512",
     "C:\\Users\\fordj\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.11\\sqlitepclraw.lib.e_sqlite3.2.1.11.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Indian Hills\\Term 7\\Advanced C#\\Unit 2.5\\YoutubeCategorizerPt2\\YoutubeCategorizer.Api\\YoutubeCategorizer.Api.csproj": {}
+    "D:\\IndianHills\\Term7\\AdvancedCSharp\\Unit 2_5\\YoutubeCategorizerPt2\\YoutubeCategorizer.Api\\YoutubeCategorizer.Api.csproj": {}
   },
   "projects": {
-    "D:\\Indian Hills\\Term 7\\Advanced C#\\Unit 2.5\\YoutubeCategorizerPt2\\YoutubeCategorizer.Api\\YoutubeCategorizer.Api.csproj": {
+    "D:\\IndianHills\\Term7\\AdvancedCSharp\\Unit 2_5\\YoutubeCategorizerPt2\\YoutubeCategorizer.Api\\YoutubeCategorizer.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Indian Hills\\Term 7\\Advanced C#\\Unit 2.5\\YoutubeCategorizerPt2\\YoutubeCategorizer.Api\\YoutubeCategorizer.Api.csproj",
+        "projectUniqueName": "D:\\IndianHills\\Term7\\AdvancedCSharp\\Unit 2_5\\YoutubeCategorizerPt2\\YoutubeCategorizer.Api\\YoutubeCategorizer.Api.csproj",
         "projectName": "YoutubeCategorizer.Api",
-        "projectPath": "D:\\Indian Hills\\Term 7\\Advanced C#\\Unit 2.5\\YoutubeCategorizerPt2\\YoutubeCategorizer.Api\\YoutubeCategorizer.Api.csproj",
+        "projectPath": "D:\\IndianHills\\Term7\\AdvancedCSharp\\Unit 2_5\\YoutubeCategorizerPt2\\YoutubeCategorizer.Api\\YoutubeCategorizer.Api.csproj",
         "packagesPath": "C:\\Users\\fordj\\.nuget\\packages\\",
-        "outputPath": "D:\\Indian Hills\\Term 7\\Advanced C#\\Unit 2.5\\YoutubeCategorizerPt2\\YoutubeCategorizer.Api\\obj\\",
+        "outputPath": "D:\\IndianHills\\Term7\\AdvancedCSharp\\Unit 2_5\\YoutubeCategorizerPt2\\YoutubeCategorizer.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fordj\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "D:\\Indian Hills\\Term 7\\Advanced C#\\Unit 2.5\\YoutubeCategorizerPt2\\YoutubeCategorizer.Core\\YoutubeCategorizer.Core.csproj": {
-                "projectPath": "D:\\Indian Hills\\Term 7\\Advanced C#\\Unit 2.5\\YoutubeCategorizerPt2\\YoutubeCategorizer.Core\\YoutubeCategorizer.Core.csproj"
+              "D:\\IndianHills\\Term7\\AdvancedCSharp\\Unit 2_5\\YoutubeCategorizerPt2\\YoutubeCategorizer.Core\\YoutubeCategorizer.Core.csproj": {
+                "projectPath": "D:\\IndianHills\\Term7\\AdvancedCSharp\\Unit 2_5\\YoutubeCategorizerPt2\\YoutubeCategorizer.Core\\YoutubeCategorizer.Core.csproj"
               }
             }
           }
@@ -70,7 +70,7 @@
             },
             "Scalar.AspNetCore": {
               "target": "Package",
-              "version": "[2.13.10, )"
+              "version": "[2.13.13, )"
             }
           },
           "imports": [
@@ -510,14 +510,14 @@
         }
       }
     },
-    "D:\\Indian Hills\\Term 7\\Advanced C#\\Unit 2.5\\YoutubeCategorizerPt2\\YoutubeCategorizer.Core\\YoutubeCategorizer.Core.csproj": {
+    "D:\\IndianHills\\Term7\\AdvancedCSharp\\Unit 2_5\\YoutubeCategorizerPt2\\YoutubeCategorizer.Core\\YoutubeCategorizer.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Indian Hills\\Term 7\\Advanced C#\\Unit 2.5\\YoutubeCategorizerPt2\\YoutubeCategorizer.Core\\YoutubeCategorizer.Core.csproj",
+        "projectUniqueName": "D:\\IndianHills\\Term7\\AdvancedCSharp\\Unit 2_5\\YoutubeCategorizerPt2\\YoutubeCategorizer.Core\\YoutubeCategorizer.Core.csproj",
         "projectName": "YoutubeCategorizer.Core",
-        "projectPath": "D:\\Indian Hills\\Term 7\\Advanced C#\\Unit 2.5\\YoutubeCategorizerPt2\\YoutubeCategorizer.Core\\YoutubeCategorizer.Core.csproj",
+        "projectPath": "D:\\IndianHills\\Term7\\AdvancedCSharp\\Unit 2_5\\YoutubeCategorizerPt2\\YoutubeCategorizer.Core\\YoutubeCategorizer.Core.csproj",
         "packagesPath": "C:\\Users\\fordj\\.nuget\\packages\\",
-        "outputPath": "D:\\Indian Hills\\Term 7\\Advanced C#\\Unit 2.5\\YoutubeCategorizerPt2\\YoutubeCategorizer.Core\\obj\\",
+        "outputPath": "D:\\IndianHills\\Term7\\AdvancedCSharp\\Unit 2_5\\YoutubeCategorizerPt2\\YoutubeCategorizer.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fordj\\AppData\\Roaming\\NuGet\\NuGet.Config",

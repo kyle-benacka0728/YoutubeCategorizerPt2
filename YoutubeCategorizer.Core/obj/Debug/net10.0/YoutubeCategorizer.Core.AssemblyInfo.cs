@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("YoutubeCategorizer.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+083e1b90c25c920000299745cade5669572ec0a7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf40e2771133ec7942e68025e61793664802192f")]
 [assembly: System.Reflection.AssemblyProductAttribute("YoutubeCategorizer.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YoutubeCategorizer.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
